@@ -5,18 +5,17 @@
 Welcome to our repository of **Billboard Mockups**, designed to provide digital creatives, marketers, and advertisers with top-tier mockup resources for showcasing their designs in real-world scenarios.
 
 ## Why Billboard Mockups Are Essential
-
-In the competitive world of design and advertising, presenting your work in a realistic and impactful way is crucial. Billboard mockups help:
 ![image](https://github.com/user-attachments/assets/dcb1bd76-9d5e-4ede-a097-c2d4f2c5f287)
+In the competitive world of design and advertising, presenting your work in a realistic and impactful way is crucial. Billboard mockups help:
 
 - **Enhance Client Presentations**: Show clients exactly how their ads will appear in outdoor environments.
 - **Boost Portfolio Quality**: High-quality mockups can make your portfolio stand out.
 - **Streamline Design Workflow**: Easily adapt your designs to different billboard sizes and formats.
 
 ## High-Quality Billboard Mockups
+![image](https://github.com/user-attachments/assets/ba0ea64d-13d2-4260-bc2d-67965b1dcb3a)
 
 For a collection of **premium billboard mockups**, visit [Billboard Mockups](https://www.mockupdaddy.com/billboard-mockup). Our mockups are crafted to provide you with:
-![image](https://github.com/user-attachments/assets/ba0ea64d-13d2-4260-bc2d-67965b1dcb3a)
 
 - **Realistic Environments**: Whether it's urban settings, highways, or busy streets, we've got it covered.
 - **Multiple Formats**: From static billboards to rotating digital displays.
